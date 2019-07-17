@@ -1,0 +1,284 @@
+#header{
+background-color:white;
+padding:5px;
+}
+.head{
+padding-left:100px;
+color :#0A1478;
+
+}
+.header2{
+color :#146cbd;
+}
+p{
+margin-top:-20px;
+padding-left:100px;
+color :#146cbd;
+}
+#nav {
+    line-height:30px;
+	background-color:#f1f1f1;
+	height:30px;
+	width:96%;
+	padding:5px;
+	border-radius:6px;
+	margin-left:20px;
+}
+#nav ul{
+height:auto;
+margin-top:-2px;
+}
+#nav li{
+display:inline;
+padding-right:135px;
+padding-left:0px;
+}
+#nav a{
+text-decoration:none;
+color:#0A1478;
+}
+#nav a:hover{
+color:#f90;
+}
+
+.one{
+margin-left:20px;
+margin-top:20px;
+display:block;
+float:left;
+height:310px;
+width:50%;
+background-color:gray;
+border-radius:6px 0px 0px 6px;
+position:relative;
+}
+.img-block{
+height:310px;
+width:100%;
+border-radius:6px 0px 0px 6px;
+}
+.two{
+
+margin-top:20px;
+display:block;
+float:left;
+height:310px;
+width:22%;
+background-color:#142864;
+border-right:15px solid #0A3C78;
+border-left:15px solid #0A3C78;
+
+}
+#button1{
+margin:140px 90px 140px 70px;
+color:white;
+background-color:#0A3C78;
+height:40px;
+width:160px;
+border-radius:6px;
+border: 0px solid white;
+}
+.three{
+
+margin-top:20px;
+display:block;
+float:left;
+height:310px;
+width:22%;
+background-color:#00B4DC;
+border-radius:0px 6px 6px 0px;
+
+}
+.three p{
+margin:80px 40px 80px -70px;
+line-height:30px;
+text-align:left;
+color:white;
+font-family:calibri;
+}
+.hr-line{
+margin-top:350px;
+width:96%;
+margin-left:20px;
+border:1px dashed black;
+}
+.four{
+margin:20px 11px 20px 20px;
+display:block;
+float:left;
+height:250px;
+width:22.2%;
+background-color:#78AA32;
+border-radius:6px 6px 6px 6px;
+position:relative;
+}
+.five{
+margin:20px 11px 20px 20px;
+display:block;
+float:left;
+height:250px;
+width:22.2%;
+background-color:#8C281E;
+border-radius:6px 6px 6px 6px;
+position:relative;
+}
+.six{
+margin:20px 11px 20px 20px;
+display:block;
+float:left;
+height:250px;
+width:22.2%;
+background-color:#C8500A;
+border-radius:6px 6px 6px 6px;
+position:relative;
+}
+.seven{
+margin:20px 11px 20px 25px;
+display:block;
+float:left;
+height:250px;
+width:22.2%;
+background-color:#00B4DC;
+border-radius:6px 6px 6px 6px;
+position:relative;
+}
+.four h2{
+margin-top:0px;
+margin-left:20px;
+color:white;
+text-align:left;
+font-family:calibri;
+font-size:30px;
+font-weight:normal;
+}
+.four p{
+color:white;
+font-size:16px;
+font-family:times new roman;
+text-align:left;
+margin-top:20px;
+margin-left:-80px;
+margin-right:40px;
+}
+.five h2{
+margin-top:0px;
+margin-left:20px;
+color:white;
+text-align:left;
+font-family:calibri;
+font-size:30px;
+font-weight:normal;
+}
+.five p{
+color:white;
+font-size:16px;
+font-family:times new roman;
+text-align:left;
+margin-top:20px;
+margin-left:-80px;
+margin-right:40px;
+}
+.six h2{
+margin-top:0px;
+margin-left:20px;
+color:white;
+text-align:left;
+font-family:calibri;
+font-size:30px;
+font-weight:normal;
+}
+.six p{
+color:white;
+font-size:16px;
+font-family:times new roman;
+text-align:left;
+margin-top:20px;
+margin-left:-80px;
+margin-right:40px;
+}
+.seven p:first-child{
+color:white;
+font-size:16px;
+font-family:times new roman;
+text-align:left;
+margin-top:60px;
+margin-left:-80px;
+margin-right:40px;
+}
+.seven p:last-child{
+color:white;
+font-size:16px;
+font-family:times new roman;
+text-align:right;
+margin-top:10px;
+margin-left:-80px;
+margin-right:40px;
+font-style:italic;
+}
+#line{
+margin-top:80px;
+border : 1px dashed white;
+}
+#button2{
+margin-top:10px;
+margin-left:10px;
+color:white;
+background-color:#78AA32;
+height:30px;
+width:130px;
+border-radius:6px;
+border: 1px solid white;
+}
+#button3{
+margin-top:10px;
+margin-left:10px;
+color:white;
+background-color:#8C281E;
+height:30px;
+width:130px;
+border-radius:6px;
+border: 1px solid white;
+}
+#button4{
+margin-top:10px;
+margin-left:10px;
+color:white;
+background-color:#C8500A;
+height:30px;
+width:130px;
+border-radius:6px;
+border: 1px solid white;
+}
+#footer{
+margin-top:300px;
+	line-height:30px;
+	background-color:#f1f1f1;
+	height:30px;
+	width:96%;
+	padding:5px;
+	border-radius:6px;
+	margin-left:20px;
+}
+#footer p{
+margin-top:0px;
+margin-left:-80px;
+float:left;
+color:#0A1478;
+}
+#footer ul{
+height:auto;
+margin-top:-2px;
+}
+#footer li{
+display:inline;
+padding-right:10px;
+padding-left:0px;
+float:right;
+}
+#footer a{
+text-decoration:none;
+color:#0A1478;
+}
+#footer a:hover{
+color:#f90;
+}
